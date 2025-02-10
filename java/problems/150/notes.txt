@@ -1,0 +1,195 @@
+Arrays & Hashing
+  E  Contains Duplicate
+  E  Valid Anagram
+  E  Two Sum                                             | sometimes forget best solution
+  M  Group Anagrams
+  M  Top K Frequent Elements
+  M  Encode and Decode Strings
+  M  Product of Arrays Except Self
+  M  Valid Sudoku
+  M  Longest Consecutive Sequence
+
+Two Pointers
+  E  Valid Palindrome
+  M  Two Sum II Input Array is Sorted
+  M  3Sum
+  M  Container With Most Water
+  H  Trapping Rain Water
+
+Sliding Window
+  E  Best Time to Buy And Sell Stock
+  M  Longest Substring Without Repeating Characters
+  M  Longest Repeating Character Replacement
+  M  Permutation In String
+  H  Minimum Window Substring
+  H  Sliding Window Maximum
+
+Stack
+  E  Valid Parentheses
+  M  Min Stack
+  M  Evaluate Reverse Polish Notation
+  M  Generate Parentheses
+  M  Daily Temperatures
+  M  Car Fleet
+  H  Largest Rectangle in Histogram
+
+Linked List
+  E  Reverse Linked List
+  E  Merge Two Sorted Lists
+  E  Linked List Cycle
+  M  Reorder List
+  M  Remove Nth Node From End of List
+  M  Copy List With Random Pointer
+  M  Add Two Numbers
+  M  Find The Duplicate Number                           | this one is REALLY hard, need to understand https://neetcode.io/solutions/find-the-duplicate-number
+  M  LRU Cache                                           | didn't get this one at all, missed the solution
+  H  Merge K Sorted Lists
+  H  Reverse Nodes In K Groups
+
+Binary Search
+     Binary Search
+     Search a 2D Matrix
+     Koko Eating Bananas
+     Find Minimum in Rotated Sorted Arrays
+     Search in Rotated Sorted Array
+     Time Based Key Value Store
+     Median of Two Sorted Arrays
+
+Bit Manipulation
+    Missing numbers
+    Number of 1 Bits
+    Reverse Bits
+    Counting Bits
+    Single Number
+    Some of two Integers
+    Reverse integers
+
+
+Intervals
+    Meeting Rooms
+     Insert Interval
+    Meeting Rooms II
+    Merge Intervals
+    Non Overlapping Interval
+    Minimum Interval to Include each Query
+
+
+Advanced Graph
+
+    Alien Dictionary
+    Min Cost to Connect all points
+    Network Delay Time
+    Cheapest Flights Within K Stops
+    Reconstruct Itinerary
+    Swim in Rising Water
+
+Tree
+
+    Binary Tree Level Order Traversal
+    SameTree
+    Subtree Of Another Tree
+    Binary Tree Maximum Path Sum
+    Invert Binary Tree
+    Kth Smallest Element in a Bst
+    Serialize and Deserialize Binary Tree
+    Maximum Depth of Binary Tree
+    Construct Binary Tree FromPreorder and inorder Traversal
+    Validate Binary Search Tree
+    Diameter of Binary Tree
+    Balanced Binary Tree
+    Lowest Common ancestor of Binary Search Tree
+    Binary Tree Right side View
+    Count Good Nodes in Binary Tree
+    Implement Trie Prefix Tree
+
+1-D Dynamic Programing
+
+     Climbing Stairs
+    Coin Change
+    House Robbers
+    House Robbers II
+    Palindromic Substring
+    Maximum Product Subarray
+    Decode Ways
+     Longest Increasing Subsequence                      | hard but i think im getting there 
+    Longest Palindromic Substring
+    Word Break
+    MinCost Climbing Stairs
+    Partition Equal Subset Sum
+
+Graphs
+
+    Course Schedule
+    Clone Graph
+    Graph Valid Tree
+    Number of Islands
+    Number of connected Components in an Undirected Graph
+    Pacific Atlantic water Flow
+    Max area of Island
+    Surrounded Regions
+    Rotting Oranges
+    Walls and Gates
+    Course Schedule II
+    Redundant Connection
+    Word Ladder
+
+Backtracking
+
+    Combination Sum
+    Word Search
+    Subsets
+    Permutations
+    Subsets II
+    Combination sum II
+    Palindrome partitioning
+    Letter combinations of phone number
+    N Queens
+
+
+Math & Geometry
+
+    Set Matrix Zeroes
+    Rotate Image
+    Spiral Matrix
+    Happy Number
+    Plus One
+    Pow(x, n )
+    Multiply Strings
+    Detect Squares
+
+Heap Priority Queue
+
+    Find Median from Data Stream
+    Kth Largest Element in a Stream
+    Last Stone Weight
+    K Closest points to Origin
+    Kth largest element in an Array
+    Task Schedular
+    Design Twitter
+
+Greedy
+
+    Jump Game
+    Maximum Subarray
+    Jump Game II
+    Gas Station
+    Hands of Straights
+    Mearge Triplets to Form Target Triplets
+    Partition Labels
+    Valid Parenthesis String
+
+2-D Dynamic Programing
+
+    Longest Common Subsequence
+    Unique Path
+    Best Time to buy and sell stock with cooldown
+    Coin Change II
+    Target Sum
+    Interleaving String
+    Longest Increasing Path in a Matrix
+    Distinct Subsequences
+    Edit Distance
+    Burst Balloons
+    Regular Expression Matching
+
+
